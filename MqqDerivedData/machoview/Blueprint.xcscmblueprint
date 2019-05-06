@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5E5368184F30751FF8770C0A39E91B385730A8A9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5E5368184F30751FF8770C0A39E91B385730A8A9" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "323BF40E-04A5-44AB-A312-00D7538CB28E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5E5368184F30751FF8770C0A39E91B385730A8A9" : "machoview-code\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "machoview",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "machoview.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.code.sf.net\/p\/machoview\/code",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5E5368184F30751FF8770C0A39E91B385730A8A9"
+    }
+  ]
+}

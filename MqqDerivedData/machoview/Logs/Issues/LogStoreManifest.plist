@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>7960424B-07D1-4468-BD1A-604C8A8A1A34</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>7960424B-07D1-4468-BD1A-604C8A8A1A34.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>MachOView-bgjxpebknuvwbmczhcdsxxijhvgw</string>
+			<key>timeStartedRecording</key>
+			<real>578816502.19042206</real>
+			<key>timeStoppedRecording</key>
+			<real>578816502.93860197</real>
+			<key>title</key>
+			<string>Build target MachOView</string>
+			<key>uniqueIdentifier</key>
+			<string>7960424B-07D1-4468-BD1A-604C8A8A1A34</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
